@@ -24,8 +24,8 @@ Notice : You can only send a message until the other one already respond to the 
 
 Dies ist meine erste Repository.
 
-<h2> Einführung <h2>
-<p>Zuerst installieren Sie den Socket mit dem Befehl pip install install sockets.
+<h2> Einführung </h2>
+Zuerst installieren Sie den Socket mit dem Befehl pip install install sockets.
 Wenn Sie Pip nicht installiert haben, folgen Sie den Anweisungen in diesem Tutorial: https://pip.pypa.io/en/stable/installing/ oder https://www.youtube.com/watch?v=Ko9b_vC6XY0
 
 Wenn Sie pip und socket erfolgreich installiert haben, können Sie mit der Verwendung der Skripte fortfahren.</h6>
@@ -34,4 +34,4 @@ Wenn Sie pip und socket erfolgreich installiert haben, können Sie mit der Verwe
 Öffnen Sie zuerst die Datei Server.py, um einen Server zu erstellen, und öffnen Sie dann die Datei server_client.py, um eine Verbindung mit dem Server herzustellen.
 Jetzt können Sie als Client die Nachricht mit ENTER eingeben und mit dem Server antworten.
 
-Hinweis: Sie können eine Nachricht nur senden, wenn der andere geantwortet hat.<p>
+Hinweis: Sie können eine Nachricht nur senden, wenn der andere geantwortet hat.
