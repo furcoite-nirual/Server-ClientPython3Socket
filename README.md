@@ -17,6 +17,12 @@ Now you can type as a Client send the message with ENTER and you can respond wit
 Notice : You can only send a message until the other one already respond to the message.
 
 
+
+
+
+
+
+
 Dies ist meine erste Repository.
 
 --- Einführung ---
