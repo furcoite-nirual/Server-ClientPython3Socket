@@ -3,7 +3,6 @@
 
 This is my first repository.
 
-<img src="https://i.ibb.co/x6Qkqc2/introduction.png"></img>
 <h2> Introduction </h2>
 First you install socket with the pip command pip install sockets.
 If you haven't got pip download and install it by following this tutorial's : <a href="https://pip.pypa.io/en/stable/installing/">Documentation</a> or <a href="https://www.youtube.com/watch?v=Ko9b_vC6XY0">Youtube</a>
