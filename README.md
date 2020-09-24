@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/GRKgSnD/Server-Client-Python3-Socket.png">
+<center><img src="https://i.ibb.co/GRKgSnD/Server-Client-Python3-Socket.png"></center>
 <h1>English :</h1>
 
 This is my first repository.
