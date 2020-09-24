@@ -26,7 +26,7 @@ Dies ist meine erste Repository.
 
 <h2> Einführung </h2>
 Zuerst installieren Sie den Socket mit dem Befehl pip install install sockets.
-Wenn Sie Pip nicht installiert haben, folgen Sie den Anweisungen in diesem Tutorial: https://pip.pypa.io/en/stable/installing/ oder https://www.youtube.com/watch?v=Ko9b_vC6XY0
+Wenn Sie Pip nicht installiert haben, folgen Sie den Anweisungen in diesem Tutorial: <a href="https://pip.pypa.io/en/stable/installing/">Dokumentation</a> oder <a href="https://www.youtube.com/watch?v=Ko9b_vC6XY0">Youtube</a>
 
 Wenn Sie pip und socket erfolgreich installiert haben, können Sie mit der Verwendung der Skripte fortfahren.</h6>
 
