@@ -30,7 +30,7 @@ Wenn Sie Pip nicht installiert haben, folgen Sie den Anweisungen in diesem Tutor
 
 Wenn Sie pip und socket erfolgreich installiert haben, können Sie mit der Verwendung der Skripte fortfahren.</h6>
 
-<h2> Wie man die Skripte benutzt <h2>
+<h2> Wie man die Skripte benutzt </h2>
 Öffnen Sie zuerst die Datei Server.py, um einen Server zu erstellen, und öffnen Sie dann die Datei server_client.py, um eine Verbindung mit dem Server herzustellen.
 Jetzt können Sie als Client die Nachricht mit ENTER eingeben und mit dem Server antworten.
 
